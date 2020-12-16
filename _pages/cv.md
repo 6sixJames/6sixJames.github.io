@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Chicago, 2017
+* M.S. in Analytics, University of Chicago, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2017 - Feb. 2019: Data Analyst
+  * E15 Group
+  * Chicago, IL
+  * Duties included: Pricing analytics, labor modeling, dashboard creation/management for sports teams.
+  * Supervisor: Chris Heiniger - Director of Artificial Intelligence
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2019 - Present: Data Scientist
+  * Old Republic Insurance Company
+  * Duties included: Automating repetitive tasks, web scraping, natural language processing.
+  * Supervisor: David White - Senior Vice President and Director of Research
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical analysis
+* Python
+  * TensorFlow
+* Machine learning
+  * NLP
+  * Predictive modeling
 
 Publications
 ======
